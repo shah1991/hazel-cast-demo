@@ -1,0 +1,8 @@
+com\hazelcast\client\common\After.class
+com\hazelcast\client\common\FraudService.class
+com\hazelcast\common\User.class
+com\hazelcast\common\Airport.class
+com\hazelcast\common\MyConstants.class
+com\hazelcast\client\common\MyConfig.class
+com\hazelcast\Application.class
+com\hazelcast\client\common\Before.class
